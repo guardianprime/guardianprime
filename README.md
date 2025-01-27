@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer or UI Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing primegordian@gmail.com
+- 📫 You can contact me by emailing okongordian@gmail.com
 
 <!---
 guardianprime/guardianprime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

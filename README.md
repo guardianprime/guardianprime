@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gordian</h1>
-<h3 align="center">Backend Engineer | Systems Builder | Fullstack Developer</h3>
+<h3 align="center">Backend Engineer | Systems Builder | Software Engineer</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🔧 I love building **scalable backend systems**
 - 🖥️ Passionate about **logic, architecture, and performance**
-- 🌐 Currently exploring **golang and devops**
+- 🌐 Currently exploring **java**
 - 📚 Constantly learning distributed systems & cloud-native tech
 - ⚡ Fun fact: I enjoy solving complex system problems more than UI design 😄
 - 💡 ex-student of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
@@ -46,7 +46,7 @@
 
 ## 🎯 Current Focus
 
-- Learning **GoLang**
+- Learning **Java**
 - Building **Production-grade Backend Projects**
 
 ---
